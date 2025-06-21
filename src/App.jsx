@@ -5,8 +5,6 @@ import { auth } from './firebase';
 import { signInWithEmailAndPassword, signOut } from 'firebase/auth';
 import './App.css';
 // Correct import syntax
-import { Canvas } from '@react-three/fiber'
-import { OrbitControls, useGLTF } from '@react-three/drei'
 
 
 function App() {
